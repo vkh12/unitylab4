@@ -1,6 +1,8 @@
 # Final Lab - Lab 4 
-Combining all the techniques from the semester, I decided to work on Option A. 
+Combining all the techniques from the semester, I decided to work on Option B. 
 
-I created a first-person controlled character with a wand, where there are two unique spells controlled by the palyer. Basic landscape and texture were implemented into the scene. 
+I created a scene with the terrain tool of the following objects: forest (with lots of trees), mountains, and snow. I also implemented wind and weather effects. 
 
-Attached is my Unity file and Lab Guide. 
+Attached is my Unity file, Lab Guide, and Report. 
+
+View my Demo: https://youtu.be/Ipqt0uruIJE 
